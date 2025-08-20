@@ -1,2 +1,2 @@
 # DSA
-Python code for DSA 
+DSA practice in Python.  
